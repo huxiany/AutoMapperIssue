@@ -1,0 +1,11 @@
+C:\Users\huxia\project\AutoMapperIssue\bin\Debug\netcoreapp2.0\AutoMapperIssue.deps.json
+C:\Users\huxia\project\AutoMapperIssue\bin\Debug\netcoreapp2.0\AutoMapperIssue.runtimeconfig.json
+C:\Users\huxia\project\AutoMapperIssue\bin\Debug\netcoreapp2.0\AutoMapperIssue.runtimeconfig.dev.json
+C:\Users\huxia\project\AutoMapperIssue\bin\Debug\netcoreapp2.0\AutoMapperIssue.dll
+C:\Users\huxia\project\AutoMapperIssue\bin\Debug\netcoreapp2.0\AutoMapperIssue.pdb
+C:\Users\huxia\project\AutoMapperIssue\obj\Debug\netcoreapp2.0\AutoMapperIssue.csprojAssemblyReference.cache
+C:\Users\huxia\project\AutoMapperIssue\obj\Debug\netcoreapp2.0\AutoMapperIssue.csproj.CoreCompileInputs.cache
+C:\Users\huxia\project\AutoMapperIssue\obj\Debug\netcoreapp2.0\AutoMapperIssue.AssemblyInfoInputs.cache
+C:\Users\huxia\project\AutoMapperIssue\obj\Debug\netcoreapp2.0\AutoMapperIssue.AssemblyInfo.cs
+C:\Users\huxia\project\AutoMapperIssue\obj\Debug\netcoreapp2.0\AutoMapperIssue.dll
+C:\Users\huxia\project\AutoMapperIssue\obj\Debug\netcoreapp2.0\AutoMapperIssue.pdb
